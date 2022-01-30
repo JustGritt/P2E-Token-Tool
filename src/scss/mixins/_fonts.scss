@@ -1,0 +1,25 @@
+/* IMPORTS
+======================= */
+
+@font-face {
+    font-family: 'Bodo';
+    src: url("/src/fonts/bodoamat-rpln6-webfont.woff2") format("woff");
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bodo';
+    src: url("/src/fonts/bodoamat-rpln6-webfont.woff") format("woff");
+    font-weight: 700; 
+    font-style: normal;
+}
+
+/* CLASSES 
+======================= */
+
+$primary: 'Bodo', sans-serif;
+$secondary: 'Bodo', sans-serif;
+
+$title : 'Bodo', serif;
+$paragraph : 'Bodo', serif;
