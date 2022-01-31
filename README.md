@@ -47,7 +47,7 @@ If you want to contribute by developing your own tool, feel free to use the alre
 ##### Prerequisite : Installing NodeJS
 
 Make sure that you have a recent version of [NodeJS](https://nodejs.dev/download/) on your machine.
-You might want to use an IDE of your choice, I recommand [Visual Studio Code](https://code.visualstudio.com/Download) if you don't have one yet.   
+You might want to use an IDE of your choice, I recommand [Visual Studio Code](https://code.visualstudio.com/) if you don't have one yet.   
 
 Depending on your installation you might have access to both [NodeJS](https://nodejs.dev/download/) and [npm](https://nodejs.dev/download/), you can check if either are on your machine by running the command below. 
 
