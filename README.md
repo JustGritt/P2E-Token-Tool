@@ -1,7 +1,7 @@
 # P2E Token Tool (PTT)
 ![License](https://img.shields.io/static/v1?label=license&message=MIT&color=green) ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/JustGritt/Random-ROI-Tool) ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/JustGritt/Random-ROI-Tool)
 
-[P2E Token Tool](#) or PTT for short is a simple website aiming to simplify the calculations for your regular Play-to-Earn income. You want to track your potential gains overtime? We have all the tools you need.
+[P2E Token Tool](#) or PTT for short is a simple website aiming to simplify the calculations for your regular Play-to-Earn income. You want to track your potential gains overtime? PTT have all the tools you need.
 <br>
 
 ## Table of Contents
@@ -47,7 +47,7 @@ If you want to contribute by developing your own tool, feel free to use the alre
 ##### Prerequisite : Installing NodeJS
 
 Make sure that you have a recent version of [NodeJS](https://nodejs.dev/download/) on your machine.
-You might want to use an IDE of your choice, we recommand [Visual Studio Code](https://code.visualstudio.com/Download) if you don't have one yet.   
+You might want to use an IDE of your choice, I recommand [Visual Studio Code](https://code.visualstudio.com/Download) if you don't have one yet.   
 
 Depending on your installation you might have access to both [NodeJS](https://nodejs.dev/download/) and [npm](https://nodejs.dev/download/), you can check if either are on your machine by running the command below. 
 
