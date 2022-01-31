@@ -4,13 +4,13 @@
 ======================= */
 @font-face {
   font-family: "Bodo";
-  src: url("/src/fonts/bodoamat-rpln6-webfont.woff2") format("woff");
+  src: url("/P2E-Token-Tool/src/fonts/bodoamat-rpln6-webfont.woff2") format("woff");
   font-weight: 400;
   font-style: normal;
 }
 @font-face {
   font-family: "Bodo";
-  src: url("/src/fonts/bodoamat-rpln6-webfont.woff") format("woff");
+  src: url("/P2E-Token-Tool/src/fonts/bodoamat-rpln6-webfont.woff") format("woff");
   font-weight: 700;
   font-style: normal;
 }
@@ -187,6 +187,29 @@ header ul li a:hover {
   -webkit-transform: translateX(26px);
   -ms-transform: translateX(26px);
   transform: translateX(26px);
+}
+
+/* IMPORTS
+ ========== */
+/* CLASSES MAIN
+ ========== */
+footer {
+  position: fixed;
+  bottom: 0;
+  background: #333;
+  width: 100vw;
+  height: 50px;
+}
+footer ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  list-style: none;
+}
+footer ul li a {
+  text-decoration: none;
+  color: #f2f2f2;
+  margin: 0 25px;
 }
 
 /* IMPORTS

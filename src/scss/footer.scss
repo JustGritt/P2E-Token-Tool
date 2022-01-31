@@ -1,0 +1,30 @@
+/* IMPORTS
+ ========== */
+
+@use './mixins/colors' as c;
+@use './mixins/global' as g;
+@use './mixins/fonts' as f;
+
+/* CLASSES MAIN
+ ========== */
+
+footer {
+    position: fixed;
+    bottom: 0;
+    background: c.$noir;
+    width: 100vw;
+    height: 50px;
+
+    ul {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        list-style: none;
+
+        li a {
+            text-decoration: none;
+            color: c.$blanc;
+            margin: 0 25px;
+        }
+    }
+}
