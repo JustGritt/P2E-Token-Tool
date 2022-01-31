@@ -71,6 +71,7 @@ npm install -g
 ```bash
 sass --watch src/scss:dist/css
 ```
+After each modification of any file in the src/scss folder, the change should be applied and replicated on the index.html file. Note that the compiled SCSS file will be created in a separate folder dist/css which will be used by default. 
 <br>
 
 **Run PTT on localhost**
